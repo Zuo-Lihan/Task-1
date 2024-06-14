@@ -1,0 +1,75 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 27312291,
+  "description": "",
+  "download_checksums": {
+    "/root/autodl-tmp/Task-1/Data/train.json": {
+      "num_bytes": 29561638,
+      "checksum": null
+    },
+    "/root/autodl-tmp/Task-1/Data/test.json": {
+      "num_bytes": 3711114,
+      "checksum": null
+    },
+    "/root/autodl-tmp/Task-1/Data/valid.json": {
+      "num_bytes": 3678681,
+      "checksum": null
+    }
+  },
+  "download_size": 36951433,
+  "features": {
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "labels": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 64263724,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 21850194,
+      "num_examples": 80870,
+      "dataset_name": "json"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 2747138,
+      "num_examples": 10110,
+      "dataset_name": "json"
+    },
+    "valid": {
+      "name": "valid",
+      "num_bytes": 2714959,
+      "num_examples": 10108,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

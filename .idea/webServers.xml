@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="520c9f69-cbe0-466d-9842-b1167a828dc8" name="autoDL" url="http://connect.bjb1.seetacloud.com">
+        <fileTransfer host="connect.bjb1.seetacloud.com" port="20077" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="20077" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
