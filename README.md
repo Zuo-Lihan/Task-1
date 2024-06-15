@@ -10,7 +10,7 @@
 
 2. For `Conversation`, my `Llama-finetuning` always generates responses with a URL mixed in, and its responses sometimes have nothing to do with the user. (I guess it's related to the training effectiveness)
  
-3*. For `metrics`, I wanted to calculate the `1-of-100 accuracy`, which is always used in LLM papers. However, after my search and study, I understand the principle but do not know how to implement it exactly like everyone else.
+3*. For `metrics`, I wanted to calculate the `1-of-100 accuracy`, which is always used in LLM papers. However, after my search and study, I understand the principle but do not know how to implement it exactly like everyone does.
 
 ---
 
