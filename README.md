@@ -16,6 +16,8 @@
 
 ### For `QA`: `T5-Large` LoRA-Finetuning seen _`FineTuning_LoRA.ipynb`_
 
+`T5-Large` belongs to the `Seq2SeqLM`.
+
 #### `Configs`(train_1) of LoRA training (screenshot from Wandb)
 
 ![config1](https://github.com/Zuo-Lihan/Task-1/assets/87290137/6fac82ab-3502-45b4-b68d-c60479fdd768 "config1: train_1 (QA)")
@@ -35,6 +37,8 @@
 ---
 
 ### For `Conversation`: `Llama3-12B` LoRA-Finetuning seen in _`/communication_G/LlaMA3 Communication_LoRA_G (right).ipynb`_
+
+`Llama3` belongs to the `CausalLM`.
 
 #### `Configs` of LoRA training (screenshot from wandb)
 
