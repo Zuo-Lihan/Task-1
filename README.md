@@ -6,7 +6,7 @@
 2. LoRA-FineTuning `Llama3-12B` model on a subset of conversation Set (#`CMU_DoG`).
 
 ## Some `Glitches` put ahead!
-1. For `Conversation`, the `Reddit` downloading from the [PolyAI](https://github.com/PolyAI-LDN/conversational-datasets) appears to have an error in their code, and I can't fix it.
+1. For `Conversation`, the `Reddit` downloading from the [PolyAI](https://github.com/PolyAI-LDN/conversational-datasets) appears to have an error in their code, and I can't fix it, which is why I use the `CMU_DoG`, a smaller Conversation-Dataset.
 
 2. For `Conversation`, my `Llama-finetuning` always generates responses with a URL mixed in, and its responses sometimes have nothing to do with the user. (I guess it's related to the training effectiveness)
  
