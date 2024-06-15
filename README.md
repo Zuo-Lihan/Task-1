@@ -40,7 +40,7 @@
 
 `Llama3` belongs to the `CausalLM`.
 
-#### `Configs` of LoRA training (screenshot from wandb)
+#### `Configs` (Llama3-train) of LoRA training (screenshot from wandb)
 
 ![config1](https://github.com/Zuo-Lihan/Task-1/assets/87290137/8bf65828-26ef-4b77-a235-2e02930cd53a "config1: Llama3-train (Conversation)")
 
