@@ -2,7 +2,7 @@
 
 ## What did I do?
 
-1. LoRA-FineTuning `T5-Large` model on a subset of amazonQA ([`qa_Tools_and_Home_Improvement`](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/qa/)).
+1. LoRA-FineTuning `T5-Large` model on a subset of amazonQA ([#`qa_Tools_and_Home_Improvement`](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/qa/)).
 2. LoRA-FineTuning `Llama3-12B` model on a subset of conversation Set (#`CMU_DoG`).
 
 ## Some `Glitches` put ahead!
