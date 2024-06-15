@@ -5,7 +5,7 @@
 1. LoRA-FineTuning `T5-Large` model on a subset of amazonQA ([`qa_Tools_and_Home_Improvement`](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/qa/)).
 2. LoRA-FineTuning `Llama3-12B` model on a subset of conversation Set (#`CMU_DoG`).
 
-## Some Glitches put ahead!
+## Some `Glitches` put ahead!
 1. For `Conversation`, the `Reddit` downloading from the [PolyAI](https://github.com/PolyAI-LDN/conversational-datasets) appears to have an error in their code, and I can't fix it.
 
 2. For `Conversation`, my `Llama-finetuning` always generates responses with a URL mixed in, and its responses sometimes have nothing to do with the user. (I guess it's related to the training effectiveness)
