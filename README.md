@@ -24,7 +24,7 @@
 
 ![config2](https://github.com/Zuo-Lihan/Task-1/assets/87290137/1cdcbc66-b53a-412c-b39e-14c35d4bb161 "config2: train_1 (QA)")
 
-![basic](https://github.com/Zuo-Lihan/Task-1/assets/87290137/6dfa1ec5-868d-4117-932d-0455b20f8e69 "basic w results (QA)")
+![basic](https://github.com/Zuo-Lihan/Task-1/assets/87290137/6dfa1ec5-868d-4117-932d-0455b20f8e69 "basic w results: train_1 (QA)")
 
 #### `Training Loss`
 
@@ -32,7 +32,7 @@
 
 #### `Results`
 
-![Results](https://github.com/Zuo-Lihan/Task-1/assets/87290137/de33c5c3-99ff-49d2-93ee-c96e140c008b "Results (QA)")
+![Results](https://github.com/Zuo-Lihan/Task-1/assets/87290137/de33c5c3-99ff-49d2-93ee-c96e140c008b "Results: train_1 (QA)")
 
 ---
 
