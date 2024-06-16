@@ -2,13 +2,13 @@
 
 ## What did I do?
 
-1. LoRA-FineTuning `T5-Large` model on a subset of amazonQA ([#`qa_Tools_and_Home_Improvement`](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/qa/)).
-2. LoRA-FineTuning `Llama3-12B` model on a subset of conversation Set (#`CMU_DoG`).
+1. LoRA-FineTuning `T5-Large` model on a subset of amazonQA ([`#qa_Tools_and_Home_Improvement`](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/qa/)).
+2. LoRA-FineTuning `Llama3-12B` model on a subset of conversation Set (`#CMU_DoG`).
 
 ## Some `Glitches` put ahead!
-1. For `Conversation`, to download the `Reddit` from the [PolyAI](https://github.com/PolyAI-LDN/conversational-datasets) appears to have an error in their code, and I can't fix it, which is why I use the `CMU_DoG`, a smaller Conversation-Dataset.
+1. For `Conversation`, to download the `Reddit` from the [PolyAI](https://github.com/PolyAI-LDN/conversational-datasets) appears to have an error in their code, and I can't fix it, which is why I use the `#CMU_DoG`, a quite smaller Conversation-Dataset.
 
-2. For `Conversation`, my `Llama-finetuning` always generates responses with a URL mixed in, and its responses sometimes have nothing to do with the user. (I guess it's related to the training process.)
+2. For `Conversation`, my `Llama-finetuning` always generates responses with a URL mixed in, and its responses sometimes have nothing to do with the user. (I guess it's related to the training process because I didn't train all the Training-Set, and the _'learning-rate'_ seems a little high.)
  
 3*. For `metrics`, I wanted to calculate the `1-of-100 accuracy`, which is always used in LLM papers. However, after my search and study, I understand the principle but do not know how to implement it exactly like everyone does.
 
